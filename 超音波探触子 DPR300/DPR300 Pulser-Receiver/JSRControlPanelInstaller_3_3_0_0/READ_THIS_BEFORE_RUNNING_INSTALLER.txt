@@ -1,0 +1,21 @@
+1) You should run the installer software before inserting a
+PRC50 into the PC.
+
+2) If you have an older version of JSR Control Panel on the
+target PC, you must completely uninstall that version first.
+
+3) After running the uninstaller, some drivers may still need to 
+be removed manually. Go to My Computer\Properties\Hardware\
+Device Manager\ Use the right-click Uninstall option if
+any of these drivers remain:
+ Jungo
+   Win Driver
+ JSR Ultrasonics Pulsers/Receivers
+   PCI Device
+   PRC50
+
+4) Unzip the complete zip file to a temporary folder before
+running the exe file so the /Documentation/ folder can be found.
+
+5) Restart the PC after installing the software.
+
